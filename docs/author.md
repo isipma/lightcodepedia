@@ -4,10 +4,11 @@ _Please customize this page to introduce yourself to the Lightcode community._
 _Use Markdown syntax to format your text and add links, images, and other media._
 
 # About Me 
-__Drop your photo here:__
+__Drop your photo here:_![image](https://github.com/user-attachments/assets/61c2ac14-db35-43ca-a6ae-0fdfd0bdda0c)
+_
 ![Me]()
 
-I'm [Your Name], a [Your Profession/Role] based in [Your Location]. I have a passion for [Your Interests or Hobbies].
+I'm [isabelle sipma], a [consultant] based in [Paris]. I have a passion for [Horses].
 
 # My journey
 My journey with Lightcode began when I applied for Lightcode Academy.
